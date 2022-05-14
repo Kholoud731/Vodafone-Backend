@@ -1,10 +1,9 @@
 ## BackEnd Setup
 
 
-### git clone "github repo for backend"
+### git clone "github repo "
 
-please find the link for the backend to receive the required api to run the front end app.\
-link to backend: [Backend repo link](https://github.com/Kholoud731/Vodafone-Backend) 
+This will get you a folder with the full app on your local pc.
 
 ### npm install 
 
